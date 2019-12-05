@@ -4,4 +4,4 @@ Ce plugin propose les mêmes fonctionnalités que notre version du plugin [ItemR
 
 # Crédits
 
-Le plugin a été réalisé avec le soutien de l’[IRIHS – Université de Rouen Normandie](https://irihs.univ-rouen.fr/)
+Le plugin a été réalisé avec le soutien de l’[IRIHS – Université de Rouen Normandie](https://irihs.univ-rouen.fr/).
